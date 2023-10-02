@@ -1,0 +1,22 @@
+Name: 2123123123
+Gender: Man
+Birthday: 02.10.2005
+Phone Number: (213) 123-1231
+Email: w@gmail.com
+
+Social Medias of User:
+213
+
+Technologies User knows:
+.NET
+Windows Forms
+WPF
+Unity
+Azure
+PHP
+MySQL
+
+Languages User speaks
+Arabic
+Bhojpuri
+Chinese (Mandarin)
